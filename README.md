@@ -1,1 +1,2 @@
-Benjamin Pastore, Biochemistry PhD Student at the Ohio State University 
+**Benjamin Pastore
+Biochemistry PhD Student at the Ohio State University**
